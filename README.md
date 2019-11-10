@@ -6,7 +6,7 @@ Santos-Lozada, Alexis R., Kaneshiro, Matt, McCarter, Collin and Marazzi, Mario. 
 # Open-Access version 
 A pre-print of our paper is available via [SocArXiv](https://socopen.org/). 
 
-Kaneshiro, M., McCarter, C.,Marazzi-Santiago, M. and Santos-Lozada, Alexis R. (2019). Population of Puerto Rico not displaced by Hurricanes (for now): It's the economy. *SocArXiv*. Available in: https://osf.io/preprints/socarxiv/3frzu/. DOI: [10.31235/osf.io/3frzu](10.31235/osf.io/3frzu).
+Kaneshiro, M., McCarter, C.,Marazzi-Santiago, M. and Santos-Lozada, Alexis R. (2019). Population of Puerto Rico not displaced by Hurricanes (for now): It's the economy. *SocArXiv*. DOI: [10.31235/osf.io/3frzu](10.31235/osf.io/3frzu).
 
 # Organization 
 * We only provide the data used to produce each of the figures. Our analysis is highly descriptive. Within the paper and the pre-print we discuss how each variable was used. 
